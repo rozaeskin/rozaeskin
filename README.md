@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Roza Mercan Eskin
-- 👀 I’m interested in optics, machine learning and data science
+- 👀 I’m interested in optics, AI, machine learning and data science
 - 🌱 I’m currently learning optics in two separate labs and data science by the help of CTRL+ Future Program of Koc Holding and Microsoft
 - 📫 How to reach me: rozaeskin.itu@gmail.com
 
